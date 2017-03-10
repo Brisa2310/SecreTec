@@ -1,4 +1,10 @@
-#Problematica a resolver
+#Introduccion
+
+1. Problematica.
+2. Analisis y proposicion.
+3. Requerimientos.
+
+#1. Problematica a resolver
 
 En el instituto tecnologico de Mexicali, se realizan una serie de tramites necesarios para la terminacion de la carrera.
 Sin embargo muchas veces las personas se retrasan en la realizacion de los mismos por falta de informacion, y ademas m¿los tramites finales de la carrera
@@ -15,3 +21,24 @@ Lo siguiente es la residencia profesional, la cual no puede realizarse si los cr
 ---
 
 El tramite final es la Titulacion, que se realiza una vez finalizada la carrera y si ah cumplido ciertos requisitos como el idioma ingles.
+
+2. Analisis y proposicion
+
+Nuestra solucion propuesta es la creacion de un programa en PRO-LOG, en el que puedas realizar tus preguntas sobre cada tipo de tramite que hay y que ademas te pueda brindar la ayuda necesaria a tiempo, para que no se pasen las fechas o tiempos importantes, sera una secretaria virtual del tec.
+
+3. Requerimientos
+
+Los requerimientos necesarios son una lista del proceso de cada tramite, por ejemplo el tramite del servicio social es de la siguiente manera:
+
+1. Encontrar un lugar para realizar un servicio social.
+2. Llenar documentacion para la inscripcion al SS. (Solicitud, Carta de compromiso, Carta de asignacion, Tarjeta de control).
+3. Recoger carta de presentacion del SS (1 Semana aprox).
+4. Entregar carta de presentacion (copia firmada) y carta de aceptacion al SS.
+5. Entrega de Kardex, Plan de trabajo (Durante la realizacion del SS).
+6. Entrega del reporte num. 1 (2 meses al inicio del SS).
+7. Entrega del reporte num. 2 (4 meses al inicio del SS).
+8. Entrega del reporte num. 3 (6 meses al inicio del SS).
+9. Entrega del reporte final (1 Semana depues de entregar el reporte num. 3).
+10. Entrega de carta  de terminacion del SS.
+11. Recoger carta de liberacion del SS.
+12. Una semana despues de entregada la liberacion, aparece la liberacion en el SII.
