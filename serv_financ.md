@@ -10,7 +10,15 @@ El departamento de servicios financieros se encarga de administrar y coordinar l
  - Convenios.
   
  - Expedición de recibos para trámites varios.
+ 
+# Pagos de inscripción y reinscripción.
 
+Estos pagos se realizan con antelación al inicio de semestre, las fechas varían en relación al semestre (*Enero-Junio*/*Agosto-Diciembre*) y se publican en la [*página oficial*](http://www.itmexicali.edu.mx).
+
+Requisitos:
+
+-Acudir a ventanilla de **Servicios Financieros**.
+-Solicitar un recibo de pago de inscripción o reinscripción.
 
 
 
