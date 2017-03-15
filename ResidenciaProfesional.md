@@ -24,5 +24,48 @@ Al entrar a la opción Llenar la solicitud en línea.
 
 [![N|Solid](http://i67.tinypic.com/n53iw3.png)](http://www.itmexicali.edu.mx/servicios1/residencia.html)
 
-Nos dirijimos a la opción llamada "Estudiante Residente", una vez ahi, se nos abrira la Solicitud de Residencias (Una selección sin título). Después de enviar tus datos, se debe revisar el correo electronico utilizado e imprimir la solicitud, fírmala y entrégala al coordinador de la carrera.
+Nos dirijimos a la opción llamada **"Estudiante Residente"**, una vez ahi, se nos abrira la Solicitud de Residencias (Una selección sin título). Después de enviar tus datos, se debe revisar el correo electronico utilizado e imprimir la solicitud, fírmala y entrégala al coordinador de la carrera.
+
+Despues el la misma página te muestra un formato de ejemplo. De bajo del formato te muestra el Ingreso de datos del estudiante que será usado para generar la documentación **"Datos del Proyecto"**.
+Que conyeba a llenar la siguiente información:
+- Nombre del Proyecto
+- Opción Ejegida
+	- Banco de Proyectos
+	- Propuesta Propia
+	- Trabajador
+- Periodo Proyecado Inicio (dd/mm/aaaa)
+- Periodo Proyectado Fin (dd/mm/aaaa)
+- Número de residentes (Normalmente 1(uno), pero pueden ser hasta 5 cuando se justifique.)
+
+Después te muestra los **"Datos de la Empresa"**
+- Nombre de la empresa
+	- Amphenol TCS de México S.A. de C.V.
+	- Chromalloy, S.A. de C.V.
+	- Comisión Federal de Electricidad
+	- Dataproducts Imaging Solutions, S.A. de C.V.
+	- Fábrica de Envases de Vidrio S.A. de C.V.
+	- Fábrica de Papel San Francisco S.A. de C.V.
+	- Furukawa México, S.A. de C.V.
+	- Gulfstream Aerospace S.A. de C.V.
+	- Honeywell Aerospace de México S. de R. L. de C.V
+	- Honeywell Productos Automotrices, S.A. de C.V.
+	- Instituto Tecnologico de Mexicali
+	- Kenworth Mexicana, S.A. de C.V.
+	- Goodrich Aerospace de México S. de R.L. de C.V.
+	- PIMS S.A. de C.V.
+	- Servicio de Administración Tributaria
+	- Skyworks Solutions de México S. de R.L. de C.V.
+	- SunPower Corporation México S. de R.L. de C.V.
+	- Productos Urologos de México S.A. de C.V.
+	- UTC Aerospace Systems
+	- Others
+
+- Gir, Ramo o Sector
+	- Industrial
+	- Servicios
+	- Público
+	- Privado
+	- Other
+
+
 
