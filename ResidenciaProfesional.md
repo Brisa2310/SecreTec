@@ -29,7 +29,7 @@ Nos dirijimos a la opción llamada **"Estudiante Residente"**, una vez ahi, se n
 Despues el la misma página te muestra un formato de ejemplo. De bajo del formato te muestra el Ingreso de datos del estudiante que será usado para generar la documentación **"Datos del Proyecto"**.
 Que conyeba a llenar la siguiente información:
 - Nombre del Proyecto
-- Opción Ejegida
+- Opción Elegida
 	- Banco de Proyectos
 	- Propuesta Propia
 	- Trabajador
@@ -66,6 +66,50 @@ Después te muestra los **"Datos de la Empresa"**
 	- Público
 	- Privado
 	- Other
+- R.F.C (de la empresa)
+- Domicilio
+- Colonia
+- Código Postal
+- Fax
+- Ciudad
+- Teléfono
+- Misión de la empresa
+- Nombre del titular de la empresa
+ (Anotar el nombre de la persona de mayor jerarquía en la empresa)
+- Puesto del titular
+- Nombre del asesor externo
+- Puesto del asesor externo
+- Nombre de la empresa que firma del acuerdo de trabajo Estudiante-Escuela-Empresa
+(Anotar el nombre de la persona que afirmará el acuerdo de trabajo)
+- Puesto
 
+Después se muestra los **"Datos del Residente"**.
+- Nombre
+- Sexo
+	- Masculina
+	- Femenino
+- Carrera
+	- Contador Público
+	- Ing. Industrial
+	- Ing. en Gestión Empresarial
+	- Ing. Eléctrica
+	- Ing. Electrónica
+	- Ing. Mecánica
+	- Ing. Mecatrónica
+	- Ing. en Sistemas Computacionales
+	- Ing. en Energías Renovables
+	- Ing. Logística
+	- Ing. Química
+	- Ing. en Materiales
+	- Ing. Informática
+- Numero de control
+- Domicilio
+- E-mail
+- N° de Seguro Social
+ (Anotar los 11 dígitos. Verificar que el 5to y 6to dígitp corresponda a su fecha de nacimiento.)
+- Ciudad
+- Teléfono
+
+Y presionamos **"SUBMIT"**.
 
 
