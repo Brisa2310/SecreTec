@@ -123,7 +123,7 @@ También si se desean todos los archivos en una carpeta:
 - [**TODOS LOS ARCHIVOS**](http://r.practicasitm.net/download/planes2009.rar)
 
 ---
-#PARA MÁS INFORMACIÓN
+# PARA MÁS INFORMACIÓN
 
 **Número de oficina:** (686)580-4990
 
