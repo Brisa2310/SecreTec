@@ -124,9 +124,20 @@ También si se desean todos los archivos en una carpeta:
 
 ---
 #PARA MÁS INFORMACIÓN
- **Número de oficina:** (686)580-4990
- **Horario de atención:** Lunes a viernes de 8:00 am - 19:00 pm.
- **Correo:** residencias@itmexicali.edu.mx
- Rubén Álvarez Morales
- Jefe de Oficina
- **Facebook:** [RESIDENCIAS Y PRACTICAS ITM](https://www.facebook.com/Residenciasitm?sk=wall)
+
+**Número de oficina:** (686)580-4990
+
+
+**Horario de atención:** Lunes a viernes de 8:00 am - 19:00 pm.
+
+
+**Correo:** residencias@itmexicali.edu.mx
+
+
+Rubén Álvarez Morales
+
+
+Jefe de Oficina
+
+
+**Facebook:** [RESIDENCIAS Y PRACTICAS ITM](https://www.facebook.com/Residenciasitm?sk=wall)
