@@ -22,7 +22,7 @@ Después de leer la introducción, se deben dar seguimiento a los siguientes doc
 Al entrar a la opción Llenar la solicitud en línea.
 *Una vez que se entre a esa opción esta nos llevara directo a la coordinación de Residencias Profecionales*. **La cual se mira de esta manera:**
 
-[![N|Solid](http://i67.tinypic.com/n53iw3.png)](http://www.itmexicali.edu.mx/servicios1/residencia.html)
+[![N|Solid](http://i67.tinypic.com/n53iw3.png)]
 
 Nos dirijimos a la opción llamada **"Estudiante Residente"**, una vez ahi, se nos abrira la Solicitud de Residencias (Una selección sin título). Después de enviar tus datos, se debe revisar el correo electronico utilizado e imprimir la solicitud, fírmala y entrégala al coordinador de la carrera.
 
