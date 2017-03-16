@@ -109,10 +109,10 @@ Después se muestra los **"Datos del Residente"**.
 - Ciudad
 - Teléfono
 
-Y presionamos ==**"SUBMIT"**.==
+Y presionamos **"SUBMIT"**.
 
 Además también se tiene que descargar archivos necesarios para el tramite de Residencias Profesionales.
-- [Estructura del Anteproyecto](http://r.practicasitm.net/download/ESTRUCTURA%20DEL%20ANTEPROYECTO%20(RESIDENCIA)
+- [Estructura del Anteproyecto](http://r.practicasitm.net/download/ESTRUCTURA%20DEL%20ANTEPROYECTO%20(RESIDENCIA.doc)
 - [Seguimiento de Proyecto de Residencias Profesionales](http://r.practicasitm.net/download/ITMXL-AC-PO-007-05SEGUIMIENTOproyecto.doc)
 - [Ejemplo de Carta de Terminación](http://r.practicasitm.net/download/Carta%20Terminacion.docx)
 - [Guía para hacer Reporte Final](http://r.practicasitm.net/download/reporte%20final.doc)
