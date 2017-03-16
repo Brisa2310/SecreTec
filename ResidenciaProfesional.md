@@ -111,5 +111,3 @@ Después se muestra los **"Datos del Residente"**.
 - Teléfono
 
 Y presionamos **"SUBMIT"**.
-
-
