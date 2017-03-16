@@ -113,20 +113,26 @@ Después se muestra los **"Datos del Residente"**.
 Y presionamos **"SUBMIT"**.
 
 Además también se tiene que descargar archivos necesarios para el tramite de Residencias Profesionales.
-- [Estructura del Anteproyecto](http://r.practicasitm.net/download/ESTRUCTURA%20DEL%20ANTEPROYECTO%20(RESIDENCIA.doc)
+- [Estructura del Anteproyecto](http://r.practicasitm.net/download/ESTRUCTURA%20DEL%20ANTEPROYECTO%20(RESIDENCIA.doc))
 - [Seguimiento de Proyecto de Residencias Profesionales](http://r.practicasitm.net/download/ITMXL-AC-PO-007-05SEGUIMIENTOproyecto.doc)
 - [Ejemplo de Carta de Terminación](http://r.practicasitm.net/download/Carta%20Terminacion.docx)
 - [Guía para hacer Reporte Final](http://r.practicasitm.net/download/reporte%20final.doc)
 - [Evaluación](http://r.practicasitm.net/download/evaluaci%C3%B3n.docx)
 
 También si se desean todos los archivos en una carpeta:
-- [**TODOS LOS ARCIVOS**](http://r.practicasitm.net/download/planes2009.rar)
+- [**TODOS LOS ARCHIVOS**](http://r.practicasitm.net/download/planes2009.rar)
 
 ---
-#PARA MÁS INFORMACIÓN
- **Número de oficina:** (686)580-4990
- **Horario de atención:** Lunes a viernes de 8:00 am - 19:00 pm.
- **Correo:** residencias@itmexicali.edu.mx
- Rubén Álvarez Morales
- Jefe de Oficina
- **Facebook:** [RESIDENCIAS Y PRACTICAS ITM](https://www.facebook.com/Residenciasitm?sk=wall)
+# PARA MÁS INFORMACIÓN
+
+**Número de oficina:** (686)580-4990
+
+**Horario de atención:** Lunes a viernes de 8:00 am - 19:00 pm.
+
+**Correo:** residencias@itmexicali.edu.mx
+
+Rubén Álvarez Morales
+
+Jefe de Oficina
+
+**Facebook:** [RESIDENCIAS Y PRACTICAS ITM](https://www.facebook.com/Residenciasitm?sk=wall)
