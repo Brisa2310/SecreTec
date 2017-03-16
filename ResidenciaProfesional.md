@@ -27,7 +27,8 @@ Al entrar a la opción Llenar la solicitud en línea.
 Nos dirijimos a la opción llamada **"Estudiante Residente"**, una vez ahi, se nos abrira la Solicitud de Residencias (Una selección sin título). Después de enviar tus datos, se debe revisar el correo electronico utilizado e imprimir la solicitud, fírmala y entrégala al coordinador de la carrera.
 
 Despues el la misma página te muestra un formato de ejemplo. De bajo del formato te muestra el Ingreso de datos del estudiante que será usado para generar la documentación **"Datos del Proyecto"**.
-Que conyeba a llenar la siguiente información:
+
+++Lo que nos lleva a la siguiente información:++
 - Nombre del Proyecto
 - Opción Elegida
 	- Banco de Proyectos
@@ -37,7 +38,7 @@ Que conyeba a llenar la siguiente información:
 - Periodo Proyectado Fin (dd/mm/aaaa)
 - Número de residentes (Normalmente 1(uno), pero pueden ser hasta 5 cuando se justifique.)
 
-Después te muestra los **"Datos de la Empresa"**
+Después te muestra los **"Datos de la Empresa"**.
 - Nombre de la empresa
 	- Amphenol TCS de México S.A. de C.V.
 	- Chromalloy, S.A. de C.V.
