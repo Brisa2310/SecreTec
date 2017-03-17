@@ -5,6 +5,7 @@
 2. Fundamentos previos.
 3. Análisis del problema y propuesta de solución.
 4. Departamentos involucrados.
+5. Trabajo futuro.
 ---
 
 # 1. Problemática a resolver.
@@ -48,3 +49,5 @@ El Instituto Tecnológico de Mexicali cuenta con diversos departamentos en los cu
 
 ---
 El proyecto SecreTec ha sido llamado así, dada la solución que representa, ya que se pretende que el sistema sea una secretaria virtual, que respondería como lo haría un trabajador en dicho puesto, con la ventaja de estar disponible cuando el alumno lo requiera.
+
+---
