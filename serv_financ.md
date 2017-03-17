@@ -17,8 +17,13 @@ Estos pagos se realizan con antelación al inicio de semestre, las fechas varían 
 
 Requisitos:
 
--Acudir a ventanilla de **Servicios Financieros**.
--Solicitar un recibo de pago de inscripción o reinscripción.
+- Acudir a ventanilla de **Servicios Financieros**
+
+- Solicitar un recibo de pago de inscripción o reinscripción.
+
+- Acudir a realizar el pago al banco.
+
+- Entregar el recibo pagado a ventanilla de Servicios Financieros para obtener el recibo de pago oficial.
 
 
 
